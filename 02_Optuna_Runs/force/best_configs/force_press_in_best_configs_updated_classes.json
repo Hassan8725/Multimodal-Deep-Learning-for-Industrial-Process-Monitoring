@@ -1,0 +1,1 @@
+{"best_params": {"lr": 0.0027027086391409297, "dropout_prob": 0.45718430173518243, "hidden_channels": 88, "n_layers": 4, "kernel_size": 8, "stride": 2, "padding": 5, "pooling_type": "max", "use_batch_norm": true}, "best_value": 0.11209205910563469}
